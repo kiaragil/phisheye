@@ -37,10 +37,11 @@
   .toggle {
     width: 100%:
     /*padding 0px 0px;*/
+    padding-bottom: 5px;
     color: #29945f;
     text-align: right;
     box-sizing: border-box;
-    font-size: 60px;
+    font-size: 38px;
     display: none;
   }
 
@@ -58,6 +59,7 @@
       display: block;
       padding-top: 10px;
       padding-right: 30px;
+      padding-bottom: 5px;
     }
 
     ul {
