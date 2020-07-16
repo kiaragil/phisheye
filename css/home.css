@@ -3,9 +3,6 @@ html {
   color: white;
 }
 
-#topbar{
-  text-align: center;
-}
 
 a:link {
 
@@ -20,6 +17,11 @@ a:hover, a:active {
 
 a:visited {
   color: #ffffff;
+}
+
+#topbar{
+  padding-top: 30px;
+  text-align: center;
 }
 
 #title{
