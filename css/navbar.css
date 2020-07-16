@@ -7,6 +7,7 @@
     text-align: center;
     font-family: 'Oswald', sans-serif;
     padding-top: 15px;
+    padding-bottom: 10px;
   }
 
 
@@ -37,7 +38,6 @@
   .toggle {
     width: 100%;
     /*padding 0px 0px;*/
-    padding-bottom: 5px;
     color: #29945f;
     text-align: right;
     box-sizing: border-box;
@@ -60,7 +60,7 @@
       display: block;
       padding-top: 10px;
       padding-right: 30px;
-      padding-bottom: 5px;
+      padding-bottom: 35px;
     }
 
     ul {
