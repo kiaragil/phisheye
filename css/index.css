@@ -62,14 +62,13 @@ a:visited {
   }
 
   #welcome {  
-    font-size: 3em;  
+    font-size: 5em;  
     letter-spacing: .5em;
     margin-right: -.5em;
-=
   }
 
   #enterlink {
-    font-size: .9em;
+    font-size: 1.5em;
     letter-spacing: .5em;
     margin-right: -.5em;
     margin-left: -.5em;
