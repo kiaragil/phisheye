@@ -93,12 +93,14 @@
       color: #ffffff;
       text-shadow: -7px 5px #29945f;
       font-size: 8em;
-      line-height: 80%;
+      line-height: 45%;
+      padding-top: .25em;
+      padding-bottom: .125em;
       font-family: 'Modak', cursive;
     }
 
     #sub {
-      line-height: .5em;
+      line-height: .4em;
       font-size: 1.8em;
       font-family: 'Oswald', sans-serif;
     }
