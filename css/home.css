@@ -59,7 +59,7 @@ img {
 
 .gallery {
 
-  width: 90%;
+  width: 95%;
 
   margin: 0 auto;
 
@@ -103,7 +103,7 @@ img {
   .gallery {
 
     column-count: 1;
-    width: 90%;
+    width: 95%;
 
   }
 
