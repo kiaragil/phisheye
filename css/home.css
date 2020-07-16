@@ -7,10 +7,25 @@ html {
   text-align: center;
 }
 
+a:link {
+
+  color: #ffffff;
+  text-decoration: none;
+}
+
+
+a:hover, a:active {
+  color: #ffffff;
+}
+
+a:visited {
+  color: #ffffff;
+}
+
 #title{
   color: #ffffff;
-  -webkit-text-stroke: 1px #000000;
-  text-shadow: -5px 3px #42f58a;
+  
+  text-shadow: -5px 3px #29945f;
   font-size: 5em;
   line-height: 80%;
   font-family: 'Modak', cursive;
@@ -21,6 +36,9 @@ html {
   font-family: 'Oswald', sans-serif;
 
 }
+
+
+
 body {
 
 }
@@ -52,7 +70,7 @@ img {
 }
 
 .gallery_item img:hover {
-  border: 0.5px solid #42f58a;
+  border: 2px solid #29945f;
 }
 
 
@@ -92,8 +110,7 @@ img {
 
   #title{
   color: #ffffff;
-  -webkit-text-stroke: 3px #000000;
-  text-shadow: -7px 5px #42f58a;
+  text-shadow: -7px 5px #29945f;
   font-size: 11em;
   line-height: 80%;
   font-family: 'Modak', cursive;
