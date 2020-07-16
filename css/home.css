@@ -55,7 +55,7 @@ img {
   border: 0.5px solid #42f58a;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (orientation: portrait) {
 
   .gallery {
 
@@ -65,7 +65,7 @@ img {
 
 }
 
-@media screen and (max-width: 375px) {
+/* @media screen and (max-width: 375px) {
 
   .gallery {
 
@@ -73,7 +73,7 @@ img {
 
   }
 
-}
+} */
 
 .gallery_item {
 
@@ -89,7 +89,7 @@ img {
 
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (orientation: portrait) {
 
   .gallery {
 
@@ -98,7 +98,7 @@ img {
   }
 
 }
-
+/* 
 @media screen and (max-width: 375px) {
 
   .gallery {
@@ -117,4 +117,4 @@ img {
 
   }
 
-}
+} */
