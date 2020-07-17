@@ -1,5 +1,9 @@
 /*GENERAL*/
 
+  @font-face{
+    font-display: auto;
+  }
+
  html {
     background-color: black;
     color: white;
@@ -67,3 +71,4 @@
    }
 
  }
+
