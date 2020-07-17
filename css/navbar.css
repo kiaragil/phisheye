@@ -62,38 +62,11 @@
 
 
   #navtitle{
-    -webkit-text-stroke-width: 2px;
-    -webkit-text-stroke-color: white;
-    font-size: 120px;
-    line-height: 0;
-    text-align: left;
-    position: fixed;
-    top: .68em;
-    left: .5em;
-    color: #000000;
-    letter-spacing: .1em;
-    text-shadow: -7px 5px /*5px*/ #29945f;
-    font-family: 'Modak', cursive;
     display: none;
   }
 
   .content {padding-top: 10px;}
 
   .toggle {
-    position: fixed;
-    width: 100%;
-    -webkit-text-stroke-width: 2px;
-    -webkit-text-stroke-color: white;
-    border: 5px dashed white;
-    background: #000000;
-    text-align: right;
-    font-size: 80px;
-    color: #000000;
-    text-shadow: -7px 5px /*5px*/ #29945f;
-    height: 150px;
-    box-sizing: border-box;
-    padding-top: 5px;
-    padding-right: 40px;
-    top: 0;
     display: none;
   }
