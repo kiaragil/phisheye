@@ -4,7 +4,7 @@
     font-display: auto;
   }
 
- html {
+  html {
     background-color: black;
     color: white;
     margin: 0;
@@ -12,9 +12,12 @@
   }
 
   body {
+    color: white;
+    background-color: black;
     margin: 0;
     padding: 0;
   }
+
 
 /*LINKS*/
 
@@ -22,7 +25,6 @@
     color: #ffffff;
     text-decoration: none;
   }
-
 
   a:hover, a:active {color: #ffffff;}
 
