@@ -39,16 +39,17 @@
 
 
   ul {
-    width:80%;
+    width:100%;
     margin: 0 auto;
     padding: 0;
   }
 
   ul li {
+    font-size: 20px;
     list-style: none;
     display: inline-block;
-    padding-right: .5em;
-    padding-left: .5em;
+    padding-right: .6em;
+    padding-left: .6em;
   }
 
   ul li:hover {
@@ -61,12 +62,8 @@
   }
 
 
-  #navtitle{
-    display: none;
-  }
+  #navtitle{display: none;}
 
   .content {padding-top: 10px;}
 
-  .toggle {
-    display: none;
-  }
+  .toggle {display: none;}
