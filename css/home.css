@@ -30,10 +30,7 @@
 
 /*TITLE AND SUBHEADER*/
 
-  #topbar{
-    text-align: center;
-
-  }
+  #topbar{text-align: center;}
 
   #title{
     -webkit-text-stroke-width: 2px;
@@ -61,13 +58,12 @@
 
   }
 
-  #spacer{
+  #descmobile {display: none;}
+  
+  #spacer {padding: 2em;}
 
-    padding: 2em;
-
-  }
-
-  .titledesc{
+  .titledesc {
+    color: white;
     text-align: center;
     font-size: 45px;
     line-height: 0;
@@ -78,14 +74,25 @@
 
  @media screen and (orientation: portrait) {
 
-   .titledesc{
-    
+   .titledesc {
     font-size: 65px;
     padding-top: .6em;
     padding-bottom: 1.2em;
     /*line-height: 80%;*/
     font-family: 'Oswald', sans-serif;
    }
+
+   #spacer {padding: 1em;}
+
+   #descmobile {
+      line-height: 0;
+      text-align: center;
+      font-family: 'Oswald', sans-serif;
+      font-size: 30px;
+      padding-top: 6em;
+      padding-bottom: 0;
+      display: block;
+    }
 
  }
 

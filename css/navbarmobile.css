@@ -1,18 +1,15 @@
 /*MOBILE*/
   @media screen and (orientation: portrait) {
 
-    #topbar{
-      display: none;
-    }
+    #topbar {display: none;}
+
     nav {
       position: fixed;
       padding-top: 0px;
       padding-bottom: 0px;
     }
 
-    .content {
-      padding-top: 165px;
-    }
+    .content {padding-top: 10px;}
 
     .toggle {
       position: fixed;
@@ -34,7 +31,7 @@
       display: block;
     }
 
-    #navtitle{
+    #togtitle{
       -webkit-text-stroke-width: 2px;
       -webkit-text-stroke-color: white;
       font-size: 1.5em;
@@ -64,17 +61,13 @@
       padding: .7em;
     }
 
-    ul li:hover {
-    background: #29945f;
-    }
+    ul li:hover {background: #29945f;}
 
     ul li a {
     color: #ffffff;
     text-decoration: none;
     }
 
-    .active {
-      display: block;
-    }
+    .active {display: block;}
 
   }
