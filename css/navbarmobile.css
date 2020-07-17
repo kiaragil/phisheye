@@ -11,7 +11,7 @@
     }
 
     .content {
-    padding-top: 165px;
+      padding-top: 165px;
     }
 
     .toggle {
@@ -22,7 +22,7 @@
       border: 5px dashed white;
       background: #000000;
       text-align: right;
-      font-size: 80px;
+      font-size: 5em;
       color: #000000;
       opacity: 0.75;
       text-shadow: -7px 5px /*5px*/ #29945f;
@@ -37,7 +37,7 @@
     #navtitle{
       -webkit-text-stroke-width: 2px;
       -webkit-text-stroke-color: white;
-      font-size: 120px;
+      font-size: 1.5em;
       line-height: 0;
       text-align: left;
       position: fixed;
