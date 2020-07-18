@@ -1,0 +1,50 @@
+.content {
+  font-size: 100px;
+  letter-spacing: .6em;
+  text-align: center;
+  padding-right: .4em;
+}
+
+.fa {
+  padding-top: 30px;
+  width: 50px;
+  -webkit-text-stroke-width: 2px;
+  -webkit-text-stroke-color: white;
+  text-shadow: -7px 5px /*5px*/ #29945f;
+  color: #000000;
+}
+
+.fa:hover {
+
+    font-style: italic;
+}
+
+.fa-tumblr {
+  background: #000000;
+  color: black;
+}
+
+.fa-twitter {
+  background: #000000;
+  color: black;
+  padding-right: .4em;
+}
+
+.fa-instagram {
+  background: #000000;
+  color: black;
+}
+
+
+@media screen and (orientation: portrait) {
+  
+  .content{
+      font-size: 175px;
+      padding-right: .5em;
+  }
+
+  .fa-twitter {
+    padding-right: .3em;
+  }
+
+ }
