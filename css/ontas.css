@@ -37,6 +37,10 @@
 
 
 @media screen and (orientation: portrait) {
+
+  .titledesc {
+    padding-top: 400px
+  }
   
   .content{
       font-size: 175px;
