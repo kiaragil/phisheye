@@ -1,0 +1,53 @@
+.content {
+	padding: 1em;
+}
+
+div.albumcov {
+
+}
+
+div.albumcov img:hover {
+  border: 2px solid #29945f;
+}
+
+div.albumcov img {
+	/*padding: 15px;*/
+	width: 100%;
+	height: auto;
+}
+
+div.desc {
+	font-family: 'Oswald', sans-serif;
+	color: white;
+	font-size: 1.2em;
+	padding: 10px;
+	text-align: center;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.responsive {
+  padding: 0 10px;
+  float: left;
+  width: 24.99999%;
+}
+
+@media only screen and (orientation: portrait) {
+  .responsive {
+    width: 49.99999%;
+    margin: 6px 0;
+  }
+
+  div.desc {
+  	font-size: 1.8em;
+  }
+}
+
+
+.clearfix:after {
+  content: "";
+  display: table;
+  clear: both;
+}
