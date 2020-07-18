@@ -75,6 +75,7 @@
  @media screen and (orientation: portrait) {
 
    .titledesc {
+    color: whi;
     font-size: 65px;
     padding-top: .6em;
     padding-bottom: 1.2em;
