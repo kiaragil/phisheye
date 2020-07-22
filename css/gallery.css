@@ -12,8 +12,9 @@
     margin: 0 auto;
     column-count: 4;
     column-gap: .5em;
-
   }
+
+  #spacer { padding: 1em; }
 
   .gallery_item img:hover {border: 2px solid #29945f;}
 

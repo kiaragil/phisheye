@@ -37,6 +37,8 @@
 
 #descmobile {display: none;}
 
+#spacer {padding: 1.3em;}
+
 
 @media screen and (max-width: 900px) {
 
