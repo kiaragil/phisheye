@@ -21,7 +21,7 @@ img {
 	border-radius: 50%;
 }
 
- @media screen and (max-width: 1024px) {
+ @media screen and (max-width: 900px) {
  	.text{
 
  		font-size: 22px;

@@ -73,7 +73,7 @@
    }
 
 
- @media screen and (max-width: 1024px) {
+ @media screen and (max-width: 1000px) {
 
    .titledesc {
     font-size: 30px;
