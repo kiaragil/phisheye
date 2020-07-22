@@ -24,7 +24,7 @@
 
   .gallery_item img {margin: 0 0 .3em 0;}
 
-  @media screen and (max-width: 1000px) {
+  @media screen and (max-width: 900px) {
 
     .gallery {
       column-count: 2;
