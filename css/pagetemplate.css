@@ -72,11 +72,11 @@
    }
 
 
- @media screen and (max-width: 1024px) {
+ @media screen and (max-width: 900px) {
 
-    .titledesc {
+  .titledesc {
     font-size: 30px;
-    padding-top: .6em;
+/*    padding-top: .3em;*/
     padding-bottom: 1.2em;
     font-family: 'Oswald', sans-serif;
    }
