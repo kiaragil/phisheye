@@ -10,6 +10,8 @@ body {
   	font-family: 'Oswald', sans-serif;
 }
 
+#descmobile {display: none;}
+
 img {
 	
 	padding-top: 1em;
@@ -19,12 +21,16 @@ img {
 	border-radius: 50%;
 }
 
- @media screen and (orientation: portrait) {
+ @media screen and (max-width: 800px) {
  	.text{
 
- 		font-size: 35px;
- 		padding-left: 3em;
-  		padding-right: 3em;
+ 		font-size: 22px;
+ 		padding-left: 1em;
+  		padding-right: 1em;
  	}
 
- 	img {width:400px;}
+ 	 #spacer{padding: 3em;}
+
+ 	img {width: 250px;}
+ 	
+ }

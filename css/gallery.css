@@ -12,8 +12,7 @@
     margin: 0 auto;
     column-count: 4;
     column-gap: .5em;
-  /*  display: flex;
-    flex-wrap: wrap;*/
+
   }
 
   .gallery_item img:hover {border: 2px solid #29945f;}
@@ -25,7 +24,7 @@
 
   .gallery_item img {margin: 0 0 .3em 0;}
 
-  @media screen and (orientation: portrait) {
+  @media screen and (max-width: 800px) {
 
     .gallery {
       column-count: 2;

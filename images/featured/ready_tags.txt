@@ -1,0 +1,89 @@
+
+
+
+			  <li>
+			    <a title="" href="images/featured/dec2019-003.jpg"><img src="images/featured/thumbs/dec2019-003.jpg"  loading="lazy"></a>
+			  </li>
+
+			  <li>
+			    <a title="" href="images/featured/dec2019-018.jpg"><img src="images/featured/thumbs/dec2019-018.jpg"  loading="lazy"></a>
+			  </li>
+
+			  <li>
+			    <a title="" href="images/featured/dec2019-038.jpg"><img src="images/featured/thumbs/dec2019-038.jpg"  loading="lazy"></a>
+			  </li>
+
+			  <li>
+			    <a title="" href="images/featured/dec2019-053.jpg"><img src="images/featured/thumbs/dec2019-053.jpg"  loading="lazy"></a>
+			  </li>
+
+			  <li>
+			    <a title="" href="images/featured/dec2019-104.jpg"><img src="images/featured/thumbs/dec2019-104.jpg"  loading="lazy"></a>
+			  </li>
+
+			  <li>
+			    <a title="" href="images/featured/dec2019-113.jpg"><img src="images/featured/thumbs/dec2019-113.jpg"  loading="lazy"></a>
+			  </li>
+
+			  <li>
+			    <a title="" href="images/featured/feb2020-001.jpg"><img src="images/featured/thumbs/feb2020-001.jpg"  loading="lazy"></a>
+			  </li>
+
+			  <li>
+			    <a title="" href="images/featured/feb2020-027.jpg"><img src="images/featured/thumbs/feb2020-027.jpg"  loading="lazy"></a>
+			  </li>
+
+			  <li>
+			    <a title="" href="images/featured/feb2020-032.jpg"><img src="images/featured/thumbs/feb2020-032.jpg"  loading="lazy"></a>
+			  </li>
+
+			  <li>
+			    <a title="" href="images/featured/feb2020-036.jpg"><img src="images/featured/thumbs/feb2020-036.jpg"  loading="lazy"></a>
+			  </li>
+
+			  <li>
+			    <a title="" href="images/featured/feb2020-048.jpg"><img src="images/featured/thumbs/feb2020-048.jpg"  loading="lazy"></a>
+			  </li>
+
+			  <li>
+			    <a title="" href="images/featured/hillbomb2020-108.jpg"><img src="images/featured/thumbs/hillbomb2020-108.jpg"  loading="lazy"></a>
+			  </li>
+
+			  <li>
+			    <a title="" href="images/featured/hillbomb2020-21.jpg"><img src="images/featured/thumbs/hillbomb2020-21.jpg"  loading="lazy"></a>
+			  </li>
+
+			  <li>
+			    <a title="" href="images/featured/hillbomb2020-72.jpg"><img src="images/featured/thumbs/hillbomb2020-72.jpg"  loading="lazy"></a>
+			  </li>
+
+			  <li>
+			    <a title="" href="images/featured/hillbomb2020-79.jpg"><img src="images/featured/thumbs/hillbomb2020-79.jpg"  loading="lazy"></a>
+			  </li>
+
+			  <li>
+			    <a title="" href="images/featured/IMG_0392.jpg"><img src="images/featured/thumbs/IMG_0392.jpg"  loading="lazy"></a>
+			  </li>
+
+			  <li>
+			    <a title="" href="images/featured/IMG_0944.jpg"><img src="images/featured/thumbs/IMG_0944.jpg"  loading="lazy"></a>
+			  </li>
+
+			  <li>
+			    <a title="" href="images/featured/march2020-005.jpg"><img src="images/featured/thumbs/march2020-005.jpg"  loading="lazy"></a>
+			  </li>
+
+			  <li>
+			    <a title="" href="images/featured/march2020-007.jpg"><img src="images/featured/thumbs/march2020-007.jpg"  loading="lazy"></a>
+			  </li>
+
+			  <li>
+			    <a title="" href="images/featured/march2020-016.jpg"><img src="images/featured/thumbs/march2020-016.jpg"  loading="lazy"></a>
+			  </li>
+
+			  <li>
+			    <a title="" href="images/featured/march2020-034.jpg"><img src="images/featured/thumbs/march2020-034.jpg"  loading="lazy"></a>
+			  </li>
+
+  		
+

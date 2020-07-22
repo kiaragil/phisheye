@@ -5,7 +5,7 @@
   padding-right: .4em;
 }
 
-.fa {
+ .fa-buttons{
   padding-top: 30px;
   width: 50px;
   -webkit-text-stroke-width: 2px;
@@ -14,7 +14,7 @@
   color: #000000;
 }
 
-.fa:hover {
+.fa-buttons:hover {
 
     font-style: italic;
 }
@@ -35,20 +35,17 @@
   color: black;
 }
 
+#descmobile {display: none;}
 
-@media screen and (orientation: portrait) {
 
-  .titledesc {
-    padding-top: 400px
-  }
+@media screen and (max-width: 800px) {
+
+  #spacer {padding: 3.6em;}
   
   .content{
-      font-size: 175px;
-      padding-right: .5em;
-  }
-
-  .fa-twitter {
-    padding-right: .3em;
+      font-size: 125px;
+      align-content: center;
+      
   }
 
  }

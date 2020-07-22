@@ -11,11 +11,14 @@
   }
 
   body {
+    color: white;
     background-color: black;
     margin: 0;
     padding: 0;
   }
 
+
+  #descmobile { display: none; }
 
 /*LINKS*/
 
@@ -40,12 +43,10 @@
     padding-top: .6em;
     padding-bottom: .25em;
     font-family: 'Modak', cursive;
-    /*position: fixed;
-    top: .68em;
-    left: .5em;*/
+ 
     color: #000000;
     letter-spacing: .1em;
-    text-shadow: -7px 5px /*5px*/ #29945f;
+    text-shadow: -7px 5px #29945f;
     display: block;
   }
 
@@ -54,44 +55,40 @@
     font-size: .95em;
     line-height: 0;
     padding-top: .5em;
-    /*padding-bottom: .5em;*/
+
     font-family: 'Oswald', sans-serif;
 
   }
-
-  #descmobile {display: none;}
   
   #spacer {padding: 2em;}
 
   .titledesc {
     color: white;
     text-align: center;
-    font-size: 45px;
+    font-size: 30px;
     line-height: 0;
     padding-bottom: .9em;
     font-family: 'Oswald', sans-serif;
    }
 
 
- @media screen and (orientation: portrait) {
+ @media screen and (max-width: 800px) {
 
-   .titledesc {
-    color: white;
-    font-size: 65px;
+    .titledesc {
+    font-size: 30px;
     padding-top: .6em;
     padding-bottom: 1.2em;
-    /*line-height: 80%;*/
     font-family: 'Oswald', sans-serif;
    }
 
-   #spacer {padding: 1em;}
+   #spacer {padding: .3em;}
 
    #descmobile {
       color: white;
       line-height: 0;
       text-align: center;
       font-family: 'Oswald', sans-serif;
-      font-size: 30px;
+      font-size: 15px;
       padding-top: 6em;
       padding-bottom: 0;
       display: block;

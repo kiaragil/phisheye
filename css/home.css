@@ -73,24 +73,24 @@
    }
 
 
- @media screen and (orientation: portrait) {
+ @media screen and (max-width: 800px) {
 
    .titledesc {
-    font-size: 65px;
+    font-size: 30px;
     padding-top: .6em;
     padding-bottom: 1.2em;
     /*line-height: 80%;*/
     font-family: 'Oswald', sans-serif;
    }
 
-   #spacer {padding: 1em;}
+   #spacer {padding: .3em;}
 
    #descmobile {
       color: white;
       line-height: 0;
       text-align: center;
       font-family: 'Oswald', sans-serif;
-      font-size: 30px;
+      font-size: 15px;
       padding-top: 6em;
       padding-bottom: 0;
       display: block;
