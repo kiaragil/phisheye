@@ -68,6 +68,15 @@
     font-family: 'Oswald', sans-serif;
    }
 
+   .titlebutt {
+    color: white;
+    text-align: center;
+    font-size: 45px;
+    line-height: 0;
+    padding-bottom: .9em;
+    font-family: 'Oswald', sans-serif;
+   }
+
 
  @media screen and (max-width: 900px) {
 
@@ -75,7 +84,13 @@
     font-size: 30px;
     padding-top: .6em;
     padding-bottom: 1.2em;
-    /*line-height: 80%;*/
+    font-family: 'Oswald', sans-serif;
+   }
+
+   .titlebutt {
+    font-size: 2em;
+    padding-top: .2em;
+   /* padding-bottom: 1.2em;*/
     font-family: 'Oswald', sans-serif;
    }
 
