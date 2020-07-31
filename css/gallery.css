@@ -15,7 +15,7 @@
     padding-bottom: 3em;
   }
 
-  #spacer { padding: 1em; }
+/*  #spacer { padding: 1em; }*/
 
   .gallery_item img:hover {border: 2px solid #29945f;}
 
@@ -29,7 +29,7 @@
   @media screen and (max-width: 900px) {
 
     .gallery {
-      column-count: 2;
+      column-count: 1;
       width: 95%;
       padding-bottom: 1.5em;
     }
