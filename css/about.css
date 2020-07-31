@@ -4,10 +4,11 @@ body {
 }
 
  .text{
-  	font-size: 25px;
-  	padding-left: 5em;
-  	padding-right: 5em;
+  	font-size: 23px;
+  	padding-left: 12em;
+  	padding-right: 12em;
   	font-family: 'Oswald', sans-serif;
+  	text-align: justify;
 }
 
 #descmobile {display: none;}
