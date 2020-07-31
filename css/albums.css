@@ -1,7 +1,6 @@
-
-
-.albumcov {
-
+.content{
+  padding-left: .4em;
+  padding-right: .4em;
 }
 
 .albumcov img:hover {
@@ -30,8 +29,8 @@
 
 .responsive {
   padding: 0 6px;
-  float: left;
-  width: 25%;
+  float: right;
+  width: 33%;
 }
 
 @media screen and (max-width: 900px) {
