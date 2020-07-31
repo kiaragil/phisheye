@@ -1,6 +1,6 @@
 html {
     background-color: #000000;
-    background:url("../images/landing-bg/bg-hor.jpg") no-repeat center center fixed;
+    background:url("../images/landing-bg/sfcnight-hor.jpg") no-repeat center center fixed;
     background-size: cover;
     width: 100%;
 }
@@ -51,7 +51,7 @@ a:visited {
 @media screen and (max-width: 900px) {
    
   html {
-    background:url("../images/landing-bg/bg-hor.jpg") no-repeat center center fixed;
+    background:url("../images/landing-bg/sfcnight-ver.jpg") no-repeat center center fixed;
     background-size: cover;
     width: 50%;
   }
