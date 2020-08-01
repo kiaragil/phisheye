@@ -2,7 +2,7 @@
   font-size: 100px;
   letter-spacing: .6em;
   text-align: center;
-  padding-right: .4em;
+
 }
 
  .fa-buttons{
@@ -22,17 +22,18 @@
 .fa-tumblr {
   background: #000000;
   color: black;
+  
 }
 
 .fa-twitter {
   background: #000000;
   color: black;
-/*  padding-right: .2em;*/
 }
 
 .fa-instagram {
   background: #000000;
   color: black;
+
 }
 
 #descmobile {display: none;}
@@ -46,8 +47,10 @@
   
   .content{
       font-size: 125px;
-      align-content: center;
-      
+
+      display: flex;
+      flex-direction: column;
+      padding-left: 1.4em;
   }
 
  }
